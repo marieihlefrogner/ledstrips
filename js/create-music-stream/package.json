@@ -1,0 +1,55 @@
+{
+  "_args": [
+    [
+      "create-music-stream@1.0.0",
+      "D:\\Downloads\\ledstrips-master\\ledstrips-master"
+    ]
+  ],
+  "_from": "create-music-stream@1.0.0",
+  "_id": "create-music-stream@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-i25Xkvb0w1IrP5LfA0J/il44Dn0VJQTZgpEgqbUVjuq9++xYgPJPSLCXFb5lkicDKkoptVVg9FXtljPODUSHEQ==",
+  "_location": "/create-music-stream",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "create-music-stream@1.0.0",
+    "name": "create-music-stream",
+    "escapedName": "create-music-stream",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/create-music-stream/-/create-music-stream-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "D:\\Downloads\\ledstrips-master\\ledstrips-master",
+  "author": {
+    "name": "chr.vadala"
+  },
+  "bugs": {
+    "url": "https://github.com/chrvadala/create-music-stream/issues"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "lame": "^1.2.4",
+    "progress-stream": "^2.0.0",
+    "ytdl-core": "^0.28.1"
+  },
+  "description": "Creates a PCM 16 bit Little Endian Stream from a **mp3 file** or **youtube video**",
+  "devDependencies": {
+    "speaker": "^0.4.1"
+  },
+  "homepage": "https://github.com/chrvadala/create-music-stream#readme",
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "create-music-stream",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrvadala/create-music-stream.git"
+  },
+  "version": "1.0.0"
+}

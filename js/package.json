@@ -1,0 +1,22 @@
+{
+  "name": "stuff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "music.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "create-music-stream": "^1.0.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^2.5.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "magic-home": "^2.2.1",
+    "music-beat-detector": "^0.1.1",
+    "node-core-audio": "^0.5.1",
+    "record-screen": "^3.10.0",
+    "speaker": "^0.4.2"
+  }
+}
